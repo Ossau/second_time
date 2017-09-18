@@ -1,0 +1,1 @@
+I didn't want to do the hard project of The Odin Project (recreating a google search result page), but i didn't want to learn Javascript immediatly either, i needed to improve my HTML/CSS pratice, so here is this website i've made to check if i'm good enough for what is to come.
